@@ -1,4 +1,4 @@
-# Java Swing GUI Basics
+# Java Swing GUI 
 
 A collection of beginner-to-intermediate Java Swing programs demonstrating core GUI programming concepts — event handling, graphics drawing, keyboard/mouse input, and component interaction.
 
